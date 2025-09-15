@@ -4,5 +4,6 @@
 </head>
 <body>
 	<h1>hello world</h1>
+	<img src="https://preview.redd.it/zfohxnf8t3pa1.jpg?width=1024&format=pjpg&auto=webp&v=enabled&s=0f660e0a56476991ee3b97f2885d8c010fec5b97"
 </body>
 </html>
